@@ -1,0 +1,14 @@
+D:\Repost\LibreriaAdventureWorksLT\LibreraiAdventureWorks\LibreraiAdventureWorks\bin\Debug\net6.0\LibreraiAdventureWorks.deps.json
+D:\Repost\LibreriaAdventureWorksLT\LibreraiAdventureWorks\LibreraiAdventureWorks\bin\Debug\net6.0\LibreraiAdventureWorks.runtimeconfig.json
+D:\Repost\LibreriaAdventureWorksLT\LibreraiAdventureWorks\LibreraiAdventureWorks\bin\Debug\net6.0\LibreraiAdventureWorks.dll
+D:\Repost\LibreriaAdventureWorksLT\LibreraiAdventureWorks\LibreraiAdventureWorks\bin\Debug\net6.0\LibreraiAdventureWorks.pdb
+D:\Repost\LibreriaAdventureWorksLT\LibreraiAdventureWorks\LibreraiAdventureWorks\obj\Debug\net6.0\LibreraiAdventureWorks.csproj.AssemblyReference.cache
+D:\Repost\LibreriaAdventureWorksLT\LibreraiAdventureWorks\LibreraiAdventureWorks\obj\Debug\net6.0\LibreraiAdventureWorks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repost\LibreriaAdventureWorksLT\LibreraiAdventureWorks\LibreraiAdventureWorks\obj\Debug\net6.0\LibreraiAdventureWorks.AssemblyInfoInputs.cache
+D:\Repost\LibreriaAdventureWorksLT\LibreraiAdventureWorks\LibreraiAdventureWorks\obj\Debug\net6.0\LibreraiAdventureWorks.AssemblyInfo.cs
+D:\Repost\LibreriaAdventureWorksLT\LibreraiAdventureWorks\LibreraiAdventureWorks\obj\Debug\net6.0\LibreraiAdventureWorks.csproj.CoreCompileInputs.cache
+D:\Repost\LibreriaAdventureWorksLT\LibreraiAdventureWorks\LibreraiAdventureWorks\obj\Debug\net6.0\LibreraiAdventureWorks.dll
+D:\Repost\LibreriaAdventureWorksLT\LibreraiAdventureWorks\LibreraiAdventureWorks\obj\Debug\net6.0\refint\LibreraiAdventureWorks.dll
+D:\Repost\LibreriaAdventureWorksLT\LibreraiAdventureWorks\LibreraiAdventureWorks\obj\Debug\net6.0\LibreraiAdventureWorks.pdb
+D:\Repost\LibreriaAdventureWorksLT\LibreraiAdventureWorks\LibreraiAdventureWorks\obj\Debug\net6.0\LibreraiAdventureWorks.genruntimeconfig.cache
+D:\Repost\LibreriaAdventureWorksLT\LibreraiAdventureWorks\LibreraiAdventureWorks\obj\Debug\net6.0\ref\LibreraiAdventureWorks.dll
