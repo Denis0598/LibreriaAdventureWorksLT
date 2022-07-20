@@ -17,5 +17,6 @@ namespace AdventureWorksNS.Data
             services.AddDbContext<AdventureWorksDB>(options => options.UseSqlServer(strCnx));
             return services;
         }
+        ///Esta es una tarea//
     }
 }
